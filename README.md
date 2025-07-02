@@ -39,16 +39,16 @@ To run this game locally, follow these steps:
 
 
 ### Login Page
-![App Screenshot](https://github.com/thirukumaran05/Rock-Paper-Scissor/blob/main/images/Login.png?raw=true)
+![App Screenshot](https://github.com/Anurag-methi/Rock-Paper-Scissors/blob/main/images/Login.png?raw=true)
 
 ### Game Area
-![App Screenshot](https://github.com/thirukumaran05/Rock-Paper-Scissor/blob/main/images/demo.png?raw=true)
+![App Screenshot](https://github.com/Anurag-methi/Rock-Paper-Scissors/blob/main/images/demo.png?raw=true)
 
 ### Waiting For Opponent's Choice
-![App Screenshot](https://github.com/thirukumaran05/Rock-Paper-Scissor/blob/main/images/waiting.png?raw=true)
+![App Screenshot](https://github.com/Anurag-methi/Rock-Paper-Scissors/blob/main/images/waiting.png?raw=true)
 
 ### Result Page
-![App Screenshot](https://github.com/thirukumaran05/Rock-Paper-Scissor/blob/main/images/winner.png?raw=true)
+![App Screenshot](https://github.com/Anurag-methi/Rock-Paper-Scissors/blob/main/images/winner.png?raw=true)
 
 
 ## Installation
@@ -57,7 +57,7 @@ To run this game locally follow these steps :
 
 1   ) Clone this repository
 ```bash
-  git clone https://github.com/Thiru-kumaran-R/Rock-Paper-Scissor.git
+  git clone https://github.com/Anurag-methi/Rock-Paper-Scissors.git
 ```
 
 2 ) Navigate to the project directory:
